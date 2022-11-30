@@ -35,7 +35,7 @@ Running officeXXE directly:
 
 Options:
 
-		-h, --help			show this help message and exit
+		-h, --help				show this help message and exit
 		-f FILETYPE, --filetype FILETYPE
 							Output file type, 1 for docx or 2 for xlsx.
 		-a ATTACK, --attack ATTACK
