@@ -9,7 +9,6 @@ officeXXE creates office files (currently docx and xlsx) with embedded XXE paylo
 The idea is to insert your own callback monitoring address, for example a Burp Collaborator instance, in a XML entity SYSTEM call, and check whether the XML parser handling your document makes a outbound query towards said address.
 
 This tool is hyper-early alpha version levels of work-in-progress, so expect bugs and issues!
-Contributions are highly appreciated, the current state of the project is a mess :face_with_spiral_eyes:
 
 ## Features
 
